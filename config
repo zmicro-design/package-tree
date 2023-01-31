@@ -1,0 +1,11 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="tree"
+export PACKAGE_CORE_BIN_NAME="$PACKAGE_CORE_NAME"
+export PACKAGE_CORE_VERSION=v2.1.0-1
+export PACKAGE_CORE_ORG="zmicro-design"
+
+export PACKAGE_CORE_ORG_DOREAMON_DESIGN="doreamon-design"
+export PACKAGE_CORE_VERSION_DOREAMON_DESIGN=v2.1-1.2.0
+
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/${PACKAGE_CORE_ORG}/tree/releases/download"
